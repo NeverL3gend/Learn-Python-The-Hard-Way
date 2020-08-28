@@ -27,12 +27,11 @@ print('Roosters', 100 - 25 * 3 % 4) # 25 * 3 = 75 from there we do 75 % 4 which 
 print('Now I will count the eggs')
 print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 print("is it true that 3 + 2 < 5 - 7 ?")
-print(3 + 2 < 5 - 7)
-print('what is 3 + 2?', 3 + 2)
-print('what is 5 -7', 5 - 7)
+print(3 + 2 < 5 - 7) #this is going to come off as false since 5 is not less than -2
+print('what is 3 + 2 ?', 3 + 2) # this is going to show off the string and then provide answer to 3 + 2 which is 5
+print('what is 5 -7 ?', 5 - 7) # this is going to show off the string and then provide the answer to 5 - 7 which is going to be -2
 print("oh, that's why it's false")
 print('how about some more.')
-print('is it greater?', 5 > -2)
-print('is it greater or equal? ', 5 >= -2)
-print('is it less or equal?', 5 <= -2)
-print(100 - float(20.0))
+print('is it greater?', 5 > -2) #this is going to show off as true
+print('is it greater or equal? ', 5 >= -2) # this is going to show off as true
+print('is it less or equal?', 5 <= -2) # this is going to show off as false since 5 is greater than and not less than -2
