@@ -5,7 +5,6 @@ for some time now I've been wanting to learn Python. I've been interested in bui
 
 ## What do you want to do ?
 I want to main in Python only and I want to be able to build robotic arms and cool scripts that allows you to do really fun things.
-## August 31  2020, What did you learn today ?
-Currently discovering that there were two ways to insert a value into a string from a variable.
-first one is using an F-string (f"this is a string {}") and as well just using string format method
-( this is a format method -> format())
+## September 2 2020, What did you learn today ?
+Currently on EX11 where we are learning about asking questions and in EX10 we were learning about Escape Sequence's
+within strings. There are multiple sequences and as well that we can use triple quotes to make multi line notes. Continuing tomorrow with EX11 
