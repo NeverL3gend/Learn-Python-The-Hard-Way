@@ -33,20 +33,20 @@ This keeps our program small, but ut also acts as a documentation for other devs
 
 #when i give the script fewer arguments we get an error message that states that there are not enough values
 
-eat, food, utensels, clock, sky = argv
-
-print('what is this script called:', eat)
-print('what is the first variable called:', food)
-print('what is the second variable called:', utensels)
-print('what is the third variable called:', clock)
-print('what is the fourth variable called:', sky)
-
-food = input('what is your favorite food?') #assigning a variable a value
-#once we provide that value we are
-print("looks like your favorite food is" , food)
-
-utensels = input('what do you use to cut a steak?')
-print('looks like you use', utensels)
+# eat, food, utensels, clock, sky = argv
+#
+# print('what is this script called:', eat)
+# print('what is the first variable called:', food)
+# print('what is the second variable called:', utensels)
+# print('what is the third variable called:', clock)
+# print('what is the fourth variable called:', sky)
+#
+# food = input('what is your favorite food?') #assigning a variable a value
+# #once we provide that value we are
+# print("looks like your favorite food is" , food)
+#
+# utensels = input('what do you use to cut a steak?')
+# print('looks like you use', utensels)
 
 ################################################################################
 # Notes
@@ -64,3 +64,13 @@ like a,4,5,asdf and eat, food, utensels, clock, sky will be assigned those value
 
 '''
 ################################################################################
+
+script,testing = argv
+
+print('what script is this:', script)
+print('testing argv with less than 3 variables:', testing)
+
+
+#If you run the file in powershell just by doing python ex13.py you will get an error
+#error that you are receiving is that the there is not enough values to unpack(expected2, got 1)
+#since we ran the file without assigning testing a value
