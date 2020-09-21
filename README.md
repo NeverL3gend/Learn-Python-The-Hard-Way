@@ -5,6 +5,5 @@ for some time now I've been wanting to learn Python. I've been interested in bui
 
 ## What do you want to do ?
 I want to main in Python only and I want to be able to build robotic arms and cool scripts that allows you to do really fun things.
-## September 17 2020, What did you learn today ?
-Today was a very short session but I did learn how to read and open a file within python. Using the Open and Read function.
-As well learning more about the modules. I've been curious about how uploading scripts works and as well how does one find out what modules on needs to use/find for their projects.
+## September 21 2020, What did you learn today ?
+Currently learning how to open/close/read/delete files while using python. Currently on EX16 but I need to go back to EX15 to get a better understanding of opening and reading files. I understand it but not as much as I would like. I've also decided that on weekends I will not code but will code Mon - fri and upload to GH. That is my current status.
