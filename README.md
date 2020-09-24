@@ -6,4 +6,4 @@ for some time now I've been wanting to learn Python. I've been interested in bui
 ## What do you want to do ?
 I want to main in Python only and I want to be able to build robotic arms and cool scripts that allows you to do really fun things.
 ## September 23 2020, What did you learn today ?
-Reviewing EX15 and EX16. Went over EX15 today and have a better understanding. Going over EX16 tomorrow
+Learning about copying content from one file and pasting it to another one. Tomorrow is about functions and variables.
