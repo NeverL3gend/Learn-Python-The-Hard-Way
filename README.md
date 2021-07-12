@@ -8,3 +8,5 @@ I want to main in Python only and I want to be able to build robotic arms and co
 
 ## July 5, 2021, What did you learn today ?
 Just going back to the basics of Python and slowly be able to master Python
+
+
